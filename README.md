@@ -4,7 +4,7 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 ## Api-Flask
 
 * Criação de uma api basica em flask para gravar uma lista de dados em memoria e realizar algumas operações
-* Ilustração do usado de conceito de TDD
+* Exemplo do conceito de TDD utilizando pytest
 * Exemplo de como realizar a criação de uma imagem utilizando Docker
 
 ## Black Friday
