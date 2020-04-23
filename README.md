@@ -10,5 +10,11 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 ## Black Friday
 
 * Desafio Pré-processamento de dados em Python
-* Utilização das biblitecas pandas e numpy
-* Aplicação de conceitos de analise exploratoria de dados
+* Utilização das bibliotecas pandas e numpy
+* Aplicação de conceito de análise de dados
+
+## Pontuação de crédito
+
+* Desafio Análise exploratória de dados
+* Utilização das bibliotecas pandas, numpy, matplolib e seaborn
+* Aplicação de conceitos estatísticos e de análise exploratória de dados
