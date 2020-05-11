@@ -24,3 +24,9 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 * Desafio - **Funções sobre distribuições de probabilidade**
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn, scipy e  statsmodels
 * Aplicação de conceitos estatísticos voltados para distribuição normal e binomial e probabilidade
+
+## Testes Estatísticos
+
+* Desafio - **Funções sobre distribuições de probabilidade II**
+* Utilização das bibliotecas pandas, numpy, matplolib, seaborn, scipy e  statsmodels
+* Aplicação de conceitos estatísticos voltados paratestes de hipóteses
