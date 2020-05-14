@@ -30,3 +30,9 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 * Desafio - **Funções sobre distribuições de probabilidade II**
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn, scipy e  statsmodels
 * Aplicação de conceitos estatísticos voltados paratestes de hipóteses
+
+## Redução de dimensionalidade e seleção de variáveis
+
+* Desafio - **Redução de dimensionalidade com PCA e seleção de variáveis com RFE**
+* Utilização das bibliotecas pandas, numpy, matplolib, seaborn, scipy, sklearn, yellowbrick e  statsmodels
+* Aplicação de conceitos estatísticos para redução de dimensionalidade PCA e seleção de variáveis RFE
