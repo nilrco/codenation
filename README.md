@@ -45,7 +45,7 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 
 ## Notas Matematica Enem 2016
 
-* Desafio - **Feature engineering**
+* Desafio - **Descubra as notas de Matematica do ENEM 2016**
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn e sklearn
 * Aplicação de conceitos de regressão para previsão de notas de Matematica do Enem 2016
 
