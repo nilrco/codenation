@@ -13,13 +13,13 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 * Utilização das bibliotecas pandas e numpy
 * Aplicação de conceito de análise de dados
 
-## Pontuação de crédito
+## Pontuação de Crédito
 
 * Desafio -  **Análise exploratória de dados**
 * Utilização das bibliotecas pandas, numpy, matplolib e seaborn
 * Aplicação de conceitos estatísticos e de análise exploratória de dados
 
-## Distribuições de probabilidade
+## Distribuições de Probabilidade
 
 * Desafio - **Funções sobre distribuições de probabilidade**
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn, scipy e  statsmodels
@@ -31,7 +31,7 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn, scipy e  statsmodels
 * Aplicação de conceitos estatísticos voltados para testes de hipóteses
 
-## Redução de dimensionalidade e seleção de variáveis
+## Redução de Dimensionalidade e Seleção de Variáveis
 
 * Desafio - **Redução de dimensionalidade com PCA e seleção de variáveis com RFE**
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn, scipy, sklearn, yellowbrick e  statsmodels
@@ -42,3 +42,15 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 * Desafio - **Feature engineering**
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn e sklearn
 * Aplicação de conceitos de engenharia de Features para deixar as variáveis mais adequadas ao algorimo de ML
+
+## Notas Matematica Enem 2016
+
+* Desafio - **Feature engineering**
+* Utilização das bibliotecas pandas, numpy, matplolib, seaborn e sklearn
+* Aplicação de conceitos de regressão para previsão de notas de Matematica do Enem 2016
+
+## Prevendo treineiros Enem 2016
+
+* Desafio - **Descubra quem fez o ENEM 2016 apenas para treino**
+* Utilização das bibliotecas pandas, numpy, matplolib, seaborn, sklearn e imblear
+* Aplicação de conceitos de classificação para estimar quais alunos fizeram enem para treino
