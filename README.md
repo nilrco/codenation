@@ -53,4 +53,4 @@ Repositorio criado para compartilhar os códigos criados durante o acelera dev *
 
 * Desafio - **Descubra quem fez o ENEM 2016 apenas para treino**
 * Utilização das bibliotecas pandas, numpy, matplolib, seaborn, sklearn e imblear
-* Aplicação de conceitos de classificação para estimar quais alunos fizeram enem para treino
+* Aplicação de conceitos de classificação para estimar quais alunos fizeram Enem 2016 para treino
