@@ -1,2 +1,3 @@
-api-flask/venv/
+**/venv
+**/.ipynb_checkpoints
 aceleradev/
